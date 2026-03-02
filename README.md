@@ -58,4 +58,4 @@ Bu repo **açık kaynak** olarak GitHub’a yüklenecekse aşağıdaki dosyalar 
   - İlgili dosyaları `.gitignore` içine ekleyin.
 
 ### Lisans
-Bu proje için uygun gördüğünüz lisansı (`MIT`, `Apache-2.0` vb.) ekleyebilirsiniz.
+`MIT,Apache-2.0`
